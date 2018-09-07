@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb2/JavaWeb2.iml" filepath="$PROJECT_DIR$/JavaWeb2/JavaWeb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccc/ccc.iml" filepath="$PROJECT_DIR$/ccc/ccc.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/java/api_demo/alicom-dysms-api/src/main/main.iml" filepath="$USER_HOME$/Desktop/java/api_demo/alicom-dysms-api/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project.iml" filepath="$PROJECT_DIR$/project.iml" />
+    </modules>
+  </component>
+</project>
