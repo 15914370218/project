@@ -8,6 +8,7 @@ import java.sql.ResultSet;
 //rm-wz9ymg9oozkb405o8.mysql.rds.aliyuncs.com:3306
 public class JDBCConnectionRDS {
     public static void main(String[] args) throws Exception {
+        System.out.println(34);
         System.out.println(1);
         Class.forName("com.mysql.jdbc.Driver");
         //Connection conn= DriverManager.getConnection("jdbc:mysql://rm-wz9ymg9oozkb405o8ro.mysql.rds.aliyuncs.com/test1","root","rds-linyukun1212");
